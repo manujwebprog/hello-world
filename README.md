@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi!
+It is Man Here. Good to start Git.
+Enjoy!!
